@@ -1,6 +1,6 @@
 # ScalableNFTApi
 
-The highly scalable SaaS Based NFT API for generating the NFT Artwork using custom generative algorithm. Uses NFT Storage as it's backend to persist the NFT Artwork
+An highly scalable SaaS Based NFT API for generating the NFT Artwork using custom generative algorithm. Uses NFT Storage as it's backend to persist the NFT Artwork
 
 # Structure
 
@@ -29,4 +29,8 @@ A .NET Core 3.1 based Web API coding with Microsoft C# Technology. Depends on "M
 9) Use the bearer token and "Authorize" on the swagger
 10) Head over to the Modern Art POST request and simply try it out.
 ![image](https://user-images.githubusercontent.com/2565797/131245421-7fd148cc-4409-402f-8ace-07a9c16f863b.png)
+
+## Application Screenshot
+
+![image](https://user-images.githubusercontent.com/2565797/131365784-347e45da-3a8e-47bb-98b8-acdb7cc66907.png)
 
